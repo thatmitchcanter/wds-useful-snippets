@@ -1,3 +1,8 @@
+/**
+  PTO Google Calendar Sync
+  Source: https://gist.github.com/williamsba/2d6dd4aed51cf81fef688f69598acb24
+**/
+
 function PTOApproved() {
 /**
   Task 1) Open the Event Calendar
